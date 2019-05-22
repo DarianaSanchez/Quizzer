@@ -1,0 +1,12 @@
+{
+    "app": {
+        "app_name": "Quizzer",
+        "api_url": "https://opentdb.com/api.php?amount=4&category={0}&type=multiple",
+        "node_port": 3000,
+        "node_url": "127.0.0.1"
+    },
+    "dev": {
+    },
+    "production": {
+    }
+}
